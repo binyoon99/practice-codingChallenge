@@ -1,10 +1,10 @@
 # practice-codingChallenge
 
-## Daily LeetCode solutions / explaination
+1. Daily LeetCode solutions / explaination
 
-## Algorithm examples 
+2. Algorithm examples 
 
-## SQL practice code storage
+3. SQL practice code storage
 
 
 I test my code with Junit with mockito framework 
